@@ -1,4 +1,3 @@
 # HelloWorld
 HelloWorld Code in Lisp
-(write "Hello World")
-(format t "Hello World")
+(write "Hello World of Computer Science, video games, and Artificial Intelligence.")
