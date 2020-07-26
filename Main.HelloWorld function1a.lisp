@@ -1,0 +1,1 @@
+(write "Hello World of Computer Science, video games, and Artificial Intelligence.")
